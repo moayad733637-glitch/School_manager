@@ -7,7 +7,7 @@ public class School_manager {
     public static void main(String[] args) {
        
     
-        System.out.println("ohhgf");
+        System.out.println("ojfdjfhhgf");
     
     }
     

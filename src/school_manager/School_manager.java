@@ -8,6 +8,7 @@ public class School_manager {
         System.out.println("hellow moaied");
     
         System.out.println("moayad");
+        System.out.println("kjkdofjgkjkfgljelkrjglkejrkogjekorjgkjrokgmdlfkgjoeirj");
     
     }
     
